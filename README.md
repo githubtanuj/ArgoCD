@@ -1,10 +1,6 @@
-# argocd
-learn argocd in easy way
+# Argocd
+learn Argocd in easy way
 
-
-Below is the **complete explanation of the entire video in super-simple language**, **without removing any important points**, and written in a way you can **easily recall in interviews**.
-
-I’ll give you **two formats**:
 
 ---
 
